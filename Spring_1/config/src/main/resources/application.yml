@@ -1,0 +1,11 @@
+user:
+    username: ZYQ
+    age: 27
+    birthday: 1997/03/22
+    hobbies:
+       - singing
+       - dancing
+
+
+server:
+    port: 8099
